@@ -1,0 +1,25 @@
+/*general*/
+#twd-jumbo {
+	background-image: url("../images/harrypotter.jpg");
+	background-position: 50% 50%;
+	background-size: auto;
+	width: 105%;
+	height: 105%;
+	
+	}
+
+#heading {
+		font-weight: bold;
+	}
+
+/*footer*/
+.footer {
+	padding: 300px 0;
+	text-align: right;
+}
+
+
+/*form*/
+.twd-opt {
+	margin-right: 50px;
+}
